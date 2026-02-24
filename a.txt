@@ -4,3 +4,6 @@ atualização
 de 
 arquivo
 aa
+enviando
+a funcionalidade
+x
